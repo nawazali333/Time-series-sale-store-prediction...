@@ -19,3 +19,16 @@ decision-making in the future. In order to enhance operations and ultimately sal
 management at Favorita Corporation in gaining some insights from their data.
 
 
+# Business Understanding:
+
+-The goal of this project is to increase sales by learning more about long-term sales trends. understand prior events,
+how they affected sales, what can be done to remedy them, and, if necessary, the next step. This research attempts to
+examine several regression approaches in order to produce some predictions.
+
+-Hypothesis: The sales of the store are affected by various factors, such as the day of the week, season, promotions, 
+and other external factors. By analyzing these factors and building a time series forecasting model, we can accurately 
+predict the store’s future sales.
+
+-Null Hypothesis: Some products have sold more than others in terms of revenue.
+
+-Alternative Hypothesis: The retail company received an equal amount of revenue from each product.
